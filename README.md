@@ -4,7 +4,6 @@ I’m **Shreyash** — currently i rely entirely on **JavaScript**
 
 - 🔭 Working on **core backend architectures** using:  
   - **Node.js / Express** – server-side logic, APIs, microservices  
-  - **Socket.IO** – real-time communication and live updates  
   - **MongoDB/** – database design, queries, and optimization  
   - **Redis** – caching, queues, and speed boosts  
   - **JWT /** – authentication and security for modern apps  
